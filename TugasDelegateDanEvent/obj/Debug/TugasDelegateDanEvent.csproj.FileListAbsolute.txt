@@ -1,0 +1,12 @@
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\bin\Debug\TugasDelegateDanEvent.exe.config
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\bin\Debug\TugasDelegateDanEvent.exe
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\bin\Debug\TugasDelegateDanEvent.pdb
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.csproj.AssemblyReference.cache
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.csproj.SuggestedBindingRedirects.cache
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.FormCalculator.resources
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.FormPerhitungan.resources
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.Properties.Resources.resources
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.csproj.GenerateResource.cache
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.csproj.CoreCompileInputs.cache
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.exe
+E:\Amikom\3 SEMESTER\PEMROGRAMAN LANJUT\PRAKTIKUM\praktikum 8\02 Tugas Delegate dan Event\TugasDelegateDanEvent\obj\Debug\TugasDelegateDanEvent.pdb
